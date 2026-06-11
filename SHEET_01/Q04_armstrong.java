@@ -1,3 +1,4 @@
+// Explanation: 153 is an Armstrong number because 1^3 + 5^3 + 3^3 = 153.
 package SHEET_01;
 
 import java.util.*;
