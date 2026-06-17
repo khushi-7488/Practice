@@ -9,6 +9,10 @@ public class Q33_PowOfNumber {
         int n = sc.nextInt();
         System.out.println("Enter the power");
         int m = sc.nextInt();
+        if (m == 0) {
+            System.out.println(1);
+            return;
+        }
         int pow = n * (m * m * m);
         System.out.println(pow);
     }
