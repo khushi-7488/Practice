@@ -11,5 +11,6 @@ public class Q15_SumOfGivenString {
         String str2 = sc.nextLine();
         int sum = Integer.parseInt(str1) + Integer.parseInt(str2);
         System.out.println(sum);
+        sc.close();
     }
 }
