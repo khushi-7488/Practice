@@ -17,5 +17,6 @@ public class Q25FindNumberOfDigits {
         System.out.println("Enter number");
         int n = sc.nextInt();
         System.out.println(find(n));
+        sc.close();
     }
 }
