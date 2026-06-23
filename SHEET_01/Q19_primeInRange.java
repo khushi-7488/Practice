@@ -26,5 +26,6 @@ public class Q19_primeInRange {
                 System.out.println(i);
             }
         }
+        sc.close();
     }
 }
